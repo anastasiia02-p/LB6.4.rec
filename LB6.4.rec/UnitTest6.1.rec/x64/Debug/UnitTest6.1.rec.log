@@ -1,0 +1,6 @@
+﻿  UnitTest6.1.rec.cpp
+D:\універ\лаби з алгоритмізації і програмування\LB6.4.rec\LB6.4.rec\main.cpp(11,50): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file '/UnitTest6.1.rec.cpp')
+  
+     Creating library D:\універ\лаби з алгоритмізації і програмування\LB6.4.rec\x64\Debug\UnitTest6.1.rec.lib and object D:\універ\лаби з алгоритмізації і програмування\LB6.4.rec\x64\Debug\UnitTest6.1.rec.exp
+  UnitTest6.1.rec.vcxproj -> D:\універ\лаби з алгоритмізації і програмування\LB6.4.rec\x64\Debug\UnitTest6.1.rec.dll
